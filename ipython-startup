@@ -1,0 +1,10 @@
+#!/usr/bin/env python
+
+import itertools
+import cards
+from cards import Hand, Deck, Card
+from cards.rules import Score, score_class
+
+d = Deck()
+c = Card()
+h = Hand.mkhand('2H3H4H5H')

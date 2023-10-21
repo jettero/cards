@@ -1,0 +1,12 @@
+/build
+/dist
+/cards/version.py
+/reqs
+/mods
+
+__pycache__
+*.egg-info
+*.pyc
+*.orig
+*.rej
+*.log
